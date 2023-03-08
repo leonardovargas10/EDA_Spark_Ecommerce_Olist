@@ -1,4 +1,4 @@
-# EDA Futebol PySpark
+# EDA Ecommerce Brazil OLIST
 
 <p align="center">
   <img src = './img01.jpeg' width = '50%'>
@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem o intuito de ser uma Análise Exploratória sobre Dados de Futebol utilizando Técnicas de PySpark.
+Este projeto tem o intuito de ser uma Análise Exploratória sobre Dados de Ecommerce da OLIST utilizando Técnicas de PySpark.
 
 ## Fundamentação Teórica
 
@@ -25,7 +25,7 @@ Este projeto tem o intuito de ser uma Análise Exploratória sobre Dados de Fute
 
 ## Referências
 
-[KAGGLE](https://www.kaggle.com/competitions/jvm000001/overview)
+[KAGGLE](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv)
 
 
 
