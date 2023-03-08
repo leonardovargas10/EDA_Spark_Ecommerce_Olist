@@ -1,7 +1,7 @@
 # EDA Ecommerce Brazil OLIST
 
 <p align="center">
-  <img src = './img01.jpeg' width = '50%'>
+  <img src = './img01.png' width = '50%'>
 </p>
 
 ## Descrição do Projeto
